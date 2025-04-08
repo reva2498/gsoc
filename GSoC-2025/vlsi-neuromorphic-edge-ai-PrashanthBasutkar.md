@@ -1,5 +1,5 @@
 Project title
-niuvlsi-Neuromorphic VLSI Design for Edge AI ()
+niuvlsi-Neuromorphic VLSI Design for Edge AI
 Personal details
 •	Full name: Prashanth Basutkar
 •	Email: buv.prashanth@gmail.com
